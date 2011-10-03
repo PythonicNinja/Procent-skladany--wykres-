@@ -1,0 +1,24 @@
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\obj\Debug\procent skladany.csproj.GenerateResource.Cache
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\procent skladany.exe
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\procent skladany.pdb
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\obj\Debug\procent skladany.exe
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\obj\Debug\procent skladany.pdb
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\ZedGraph.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\ZedGraph.xml
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\wojtek\Documents\Visual Studio 2008\Projects\procent skladany\procent skladany\obj\Debug\WindowsFormsApplication1.Form2.resources
